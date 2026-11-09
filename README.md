@@ -2,7 +2,7 @@
 
 Lab notebook for Module M115 (AI & Intelligent Systems), Master in Intelligent Systems and Cyber Defense, ENSIASD Taroudant.
 
-[`M115_Lab1_Template.ipynb`](LAB1-ALI.ipynb) builds an interpretable phishing URL classifier with logistic regression, explains it with SHAP, and turns its scores into a SOC alerting policy.
+[`LAB1-Ali.ipynb`](LAB1-ALI.ipynb) builds an interpretable phishing URL classifier with logistic regression, explains it with SHAP, and turns its scores into a SOC alerting policy.
 
 ## Dataset
 
